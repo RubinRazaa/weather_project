@@ -1,0 +1,27 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+  <link rel="stylesheet" href="{% static 'weather_app/style.css' %}">
+</head>
+<body>
+
+<div class="main-container">
+  <h1>Weather App</h1>
+  <form method="post">
+    {% csrf_token %}
+    <input type="text" name="city1" placeholder="Enter city name">
+    <button type="submit">Get Weather</button>
+  </form>
+  <div class="weather-container">
+    {% if weather_data1 %}
+      {% include 'weather_app/city_weather.html' with weather_data=weather_data1 daily_forecasts=daily_forecasts1 %}
+    {% endif %}
+  </div>
+</div>
+
+</body>
+</html>

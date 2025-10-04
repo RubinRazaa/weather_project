@@ -1,0 +1,63 @@
+# This file is used to log errors for debugging
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: Panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: Panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: Panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: new york
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: new york
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: calicut
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: washington
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: Panoor
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: london
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: Thalassery
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+KeyError: 'daily' not found in forecast_response for city: kannur
+Response: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
